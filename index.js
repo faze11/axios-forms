@@ -1,3 +1,1 @@
-import Form from './dist/axios-forms.js';
-
-module.exports = Form;
+module.exports = require('./dist/axios-forms');

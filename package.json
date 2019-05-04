@@ -3,7 +3,7 @@
   "name": "axios-forms",
   "license": "MIT",
   "description": "Data form manager with axios submit helpers.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/faze11/axios-forms",
   "bugs": "https://github.com/faze11/axios-forms/issues",
   "repository": {
